@@ -1,0 +1,104 @@
+
+* {
+  font-family: 'Merienda', cursive;
+
+}
+body{
+  overflow-x: hidden;
+}
+
+.btn-green{
+  background: hsl(89, 39%, 44%) !important;
+ width: 100px;
+}
+
+.text-color{
+  color: #396C03 !important;
+}
+
+.secondary-color{
+  background-color: #FF8B00 !important;
+}
+
+
+.font-size-65{
+  font-size: 65px;
+  font-weight: 700;
+
+}
+
+.font-size-24{
+  font-size: 24px;
+}
+
+.hero-bg{
+  background: rgba(107, 145, 66, 0.15);
+ 
+}
+.fv-bg{
+  background-color: rgba(255, 139, 0, .15);
+}
+.cart-bg {
+  background: rgba(57, 108, 3, 0.15);
+}
+
+.card-bg{
+  background-color: ghostwhite;
+ backdrop-filter: blur(6px);
+}
+.card-bg p{
+  color: #FF8B00;
+  font-weight: 700;
+}
+
+.cookman{
+
+  background-image: url('COOKER.png') !important ;
+  width: 2050px;
+  border-radius: 40px;  
+  height: 800px;
+  background-repeat: no-repeat;
+  align-items: center;
+  }
+
+
+
+  .footer {
+    background-color: #37a337;
+    color: #77c023;
+    text-align: center;
+    padding: 20px;
+  }
+  .text-color1{ text-decoration: double;
+    color: #396C03;
+    font-weight: 700px;
+    font-size: 25;
+    font-display: 20px;
+
+  }
+  .serch{
+    border: 2px solid black;
+    
+  }
+
+.dish {
+  margin-top: -200px;
+ 
+  
+}
+.dleaf {
+   margin-top: -130px;
+   margin-right: -130px;
+   
+
+   
+}
+.l2k{
+  margin-left: 150px;
+  margin-top: -35px;
+  
+  
+
+}
+
+  
